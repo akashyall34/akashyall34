@@ -1,4 +1,6 @@
-## Hi 👋, I'm Akash Yallamati
+<p align=center
+  ## Hi 👋, I'm Akash Yallamati
+</p>
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=akashyall34)
