@@ -1,5 +1,5 @@
 <p align="center">
-  <strong>## Hi 👋, I'm Akash Yallamati</strong>
+  <strong>Hi 👋, I'm Akash Yallamati</strong>
 </p>
 
 
