@@ -1,6 +1,4 @@
-<p align="center">
-  <h1><strong>Hi 👋, I'm Akash Yallamati</strong></h1>
-</p>
+<h1 align="center"><strong>Hi 👋, I'm Akash Yallamati</strong></h1>
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=akashyall34)
