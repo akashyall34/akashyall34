@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" text="bold">
   ## Hi 👋, I'm Akash Yallamati
 </p>
 
