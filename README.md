@@ -3,7 +3,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=akashyall34)
 
-**akashyall34/akashyall34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Akash is a 👨‍💻 Computer Science student at the University of South Florida in Tampa, FL enrolled in the Accelerated Bachelor/Master Program.**
 
 Here are some ideas to get you started:
 
