@@ -1,7 +1,5 @@
 <h1 align="center"><strong>Hi 👋, I'm Akash Yallamati</strong></h1>
 
-![Profile Views](https://komarev.com/ghpvc/?username=akashyall34)
-
 **Akash is a 👨‍💻 Computer Science student at the University of South Florida in Tampa, FL 🌴 enrolled in the Accelerated Bachelor/Master Program.**
 
 - Howdy 👋! I’m Akash - meaning "Sky" in Sanskrit, the greek and latin of all Indian languages - a BS/MS Computer Science student focusing in AI/ML Engineering at the University of South Florida, located in the beautiful Bay area, known for its beaches, the Lightning, and Brady’s Super Bowl LV win.
