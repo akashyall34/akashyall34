@@ -1,30 +1,8 @@
+<img src="https://github.com/user-attachments/assets/eecd1845-b21c-471e-8bd6-cee8922a0215" width="100%" alt="USF Banner"/>
 
-<img width="1280" height="400" alt="image" src="https://github.com/user-attachments/assets/eecd1845-b21c-471e-8bd6-cee8922a0215" />
+> [!NOTE]
+> Co-presented ML/Audiology research at **ICRA Audiology 2025 in Montréal** and selected as an **AWS AI & ML Scholar** — Top 1,500 of 50,000+ global applicants!
 
-<h1 align="center"><strong>Hi 👋, I'm Akash Yallamati</strong></h1>
+BS/MS Computer Science student at **University of South Florida** specializing in deep learning, multimodal AI, computer vision, and medical/clinical AI. I work as a **Graduate Research Assistant at USF's Robot Perception and Actional Lab** and formerly held roles such as **ML Research Intern at USF's Center for Innovation, Technology & Aging** on NIH-funded clinical datasets, and **Data Science Research Intern** investigating Intrinsic Capacity in relation to aging population. I built real-time ML infrastructure handling 2,000+ msgs/sec, multi-agent AI pipelines on **AWS**, and deep learning systems trained on **A100 GPUs**. I am also actively looking for **Machine Learning Engineer** and **Software Engineer** roles for 2026.
 
-**Akash is a 👨‍💻 Computer Science student at the University of South Florida in Tampa, FL 🌴 enrolled in the Accelerated Bachelor/Master Program.**
-
-- Howdy 👋! I’m Akash - meaning "Sky" in Sanskrit, the greek and latin of all Indian languages - a BS/MS Computer Science student focusing in AI/ML Engineering at the University of South Florida, located in the beautiful Bay area, known for its beaches, the Lightning, and Brady’s Super Bowl LV win.
-- I am deeply passionate about applying AI to solve real-world challenges. As a research assistant at the USF Robotics Perception and Action Lab (RPAL) and the USF Center for Innovation, Technology, and Aging (CITA), I am actively involved in solving real-world medical problem. 
-
-For instance, I am:
-- Developing a multi-modal AI pain assessment system for neonates admitted in the NICU
-- Performing data analysis of hearing aid data in relation with cognitive decline in aging populations
-- Investigating Intrinsic Capacity in relation to Vision 
-
-Highlights:
-- AWS AI/ML Scholar ’25: Selected among 1,500 globally to pursue AWS AI Engineer, AWS Business Intelligence Engineer, or AI Scientist tracks after completing the preliminary challenge phase.
-- Research Presentation: Co-presented ongoing research at the International Collegium of Rehabilitative Audiology (ICRA) 2025 in Montréal, Canada.
-- Hackathon: Awarded Best Presentation at the Tech for Aging Summer Hackathon hosted by USF CITA in Summer 2025.
-
-Skills:
-Programming: Python, C/C++, SQL, Bash
-Machine Learning: Scikit-learn, PyTorch
-Data Visualization: Power BI, Excel, Matplotlib, Seaborn
-Cloud Services: AWS (SageMaker, Bedrock)
-Tools: Git, Linux
-
-📬 Feel free to reach out to me at akashyallamati34@gmail.com
-
- 
+[LinkedIn](https://www.linkedin.com/in/akashyall) • [GitHub](https://github.com/akashyall34) • [Email](mailto:akashyallamati34@gmail.com)
