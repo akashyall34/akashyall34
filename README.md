@@ -1,3 +1,6 @@
+
+<img width="1280" height="400" alt="image" src="https://github.com/user-attachments/assets/eecd1845-b21c-471e-8bd6-cee8922a0215" />
+
 <h1 align="center"><strong>Hi 👋, I'm Akash Yallamati</strong></h1>
 
 **Akash is a 👨‍💻 Computer Science student at the University of South Florida in Tampa, FL 🌴 enrolled in the Accelerated Bachelor/Master Program.**
